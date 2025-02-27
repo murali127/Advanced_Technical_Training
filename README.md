@@ -46,8 +46,8 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For any queries or discussions, feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** muralijay360@gmail.com
+- **GitHub:** [your-username](https://github.com/murali127)
 
 ---
 *Happy Coding! 🚀*
